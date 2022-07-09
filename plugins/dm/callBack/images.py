@@ -1012,4 +1012,4 @@ async def _KEXTRACT(bot, callbackQuery):
         except Exception:
             pass
 
-#                                                                                                                                            Telegram: @nabilanavab
+#                                                                                                                                            Telegram: @DeltaBotsOfficial
