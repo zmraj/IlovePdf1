@@ -1,12 +1,10 @@
 # This file is part of nabilanavab/iLovePDF [a completely free software]
 
 
-# Repository:  : [i💜PDF]
-# Author:      : nabilanavab
-# Email:       : nabilanavab@gmail.com
-# Telegram:    : https://telegram.dog/complete_pdf_bot
-# GitHub:      : https://github.com/nabilanavab/ILovePDF
-# Coding       : !/usr/bin/python3, utf-8, copyright ©️ 2021 nabilanavab
+# Repository:  : [ALL IN ONE PDFs]
+# Author:      : DeltaBotsOfficial
+# Telegram:    : https://t.me/DeltaBotsOfficial
+ 
 
 
 # ABOUT SOURCE-CODE:
@@ -27,17 +25,7 @@
 #                                                     CURRENTLY A [BSC. PHYSICS STUDENT]
 #                                                          DATE:[1-JUNE-2022, Wednesday]
 
-
-iLovePDF = '''
-  _   _                  ___  ___  ____ ™
- | | | |   _____ _____  | _ \|   \|  __| 
- | | | |__/ _ \ V / -_) |  _/| |) |  _|  
- |_| |___,\___/\_/\___| |_|  |___/|_|    
-                         [Nabil A Navab] 
-                         Email: nabilanavab@gmail.com
-                         Telegram: @nabilanavab
-'''
-
+ 
 
 import logging
 from pyromod import listen
@@ -108,8 +96,8 @@ class Bot(ILovePDF):
                     f"BOT ID : {myID.id} | BOT NAME: {myID.first_name} |"
                     f" BOT USERNAME: {myID.username}\n\n"
                     f"BOT GETS STARTED..\n"
-                    f"Thanks @nabilanavab for this Awesome repo\n"
-                    f"Telegram Update Channel: @iLovePDF_bot\n\n"
+                    f"Thanks @DeltaBotsOfficial for this Awesome repo\n"
+                    f"Telegram Update Channel: @DeltaBotsOfficial\n\n"
                     f"{iLovePDF}"
                     )
         # Bot Restarted Message to ADMINS
@@ -135,5 +123,5 @@ if __name__ == "__main__":
     app.run()
 
 
-#                                                         OPEN SOURCE TELEGRAM PDF BOT 🐍
-#                                                              by: nabilanavab [iLovePDF]
+#                                                         OPEN SOURCE TELEGRAM ALL IN ONE PDF BOT 🐍
+#                                                              by: @DeltaBotsOfficial
