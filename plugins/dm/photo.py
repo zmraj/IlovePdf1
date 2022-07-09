@@ -70,7 +70,7 @@ async def images(bot, message):
                                                                           [[
                                                                                  InlineKeyboardButton(
                                                                                                      "Owner 🎊",
-                                                                                 url="https://t.me/nabilanavab")
+                                                                                 url="https://t.me/DeltaBotsOfficial")
                                                                           ]]
                                                                     )
                                                      )
@@ -132,4 +132,4 @@ async def images(bot, message):
                         exc_info=True
                         )
 
-#                                                                                              Telegram: @nabilanavab
+#                                                                                              Telegram: @DeltaBotsOfficial
