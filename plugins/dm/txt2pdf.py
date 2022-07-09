@@ -257,4 +257,4 @@ async def _pgSize(bot, callbackQuery):
             pass
 
 
-#                                                                                  Telegram: @nabilanavab
+#                                                                                  Telegram: @DeltaBotsOfficial
