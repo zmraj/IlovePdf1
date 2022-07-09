@@ -788,4 +788,4 @@ async def _completed(bot, callbackQuery):
                         exc_info=True
                         )
 
-#                                                                                             Telegram: @nabilanavab
+#                                                                                             Telegram: @DeltaBotsOfficial
