@@ -22,4 +22,4 @@ e.g:
     1253656678 => '1.17GB'
 """
 
-#                                                                                  Telegram: @nabilanavab
+#                                                                                  Telegram: @DeltaBotsOfficial
