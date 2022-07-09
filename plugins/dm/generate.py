@@ -223,4 +223,4 @@ async def _GEN(bot, callbackQuery):
         except Exception:
             pass
 
-#                                                                                 Telegram: @nabilanavab
+#                                                                                 Telegram: @DeltaBotsOfficial
