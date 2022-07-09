@@ -52,13 +52,12 @@ GroupCantUse = "{} NEVER EXPECT A GOOD RESPONSE FROM ME\n\nADMINS RESTRICTED ME 
 
 button = InlineKeyboardMarkup(
         [[
-            InlineKeyboardButton("Create your Own Bot",
-               url="https://github.com/nabilanavab/ilovepdf")
+            InlineKeyboardButton("🎬𝗠𝗢𝗩𝗜𝗘𝗦🎬",
+               url="url='https://t.me/joinchat/vii7DDEvKCZkNDVl")
         ],[
-            InlineKeyboardButton("Tutorial",
-                                     url="t.me/ilovepdf_bot"),
+            InlineKeyboardButton("⭐️ 𝐌𝐎𝐕𝐈𝐄𝐒 𝐆𝐑𝐎𝐔𝐏 ⭐️", url="https://t.me/joinchat/RSzvS3qax24wMmNl"),
             InlineKeyboardButton("Update Channel",
-                             url="telegram.dog/ilovepdf_bot")
+                             url="https://t.me/DeltaBotsOfficial")
         ]]
     )
 
@@ -401,4 +400,4 @@ async def _adminList(bot, message):
                         "/ADMIN:CAUSES %(e)s ERROR",
                         exc_info=True
                         )
-#                                                                                                        Telegram: @nabilanavab
+#                                                                                                        Telegram: @DeltaBotsOfficial
