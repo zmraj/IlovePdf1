@@ -1,5 +1,5 @@
 ALL IN ONE PDFs
-   Telegram: @DeltaBotsOfficial
+   Telegram: [@DeltaBotsOfficial](https://t.me/DeltaBotsOfficial)
  
 
 ## Enjoy the API
