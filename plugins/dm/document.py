@@ -94,7 +94,7 @@ errorEditMsg = """Something went wrong..😐
 
 ERROR: `{}`
 
-For bot updates join @ilovepdf_bot"""
+For bot updates join @DeltaBotsOfficial"""
 
 forceSubMsg = """Wait [{}](tg://user?id={})..!!
 
@@ -166,7 +166,7 @@ async def documents(bot, message):
                                                   "\n\nContact Bot Owner 🤐",
                                          reply_markup = InlineKeyboardMarkup(
                                              [[InlineKeyboardButton("Owner 🎊",
-                                              url = "https://t.me/nabilanavab")]]
+                                              url = "https://t.me/DeltaBotsOfficial")]]
                                          ))
                      return
             except Exception:
@@ -214,7 +214,7 @@ async def documents(bot, message):
                                 reply_markup = InlineKeyboardMarkup(
                                      [[
                                           InlineKeyboardButton("💎 Create 2Gb Support Bot 💎",
-                                                url="https://github.com/nabilanavab/ilovepdf")
+                                                url="https://t.me/DeltaBotsOfficial")
                                      ]]
                                 ))
             return
@@ -483,4 +483,4 @@ async def _asNewDoc(bot, callbackQuery):
                         exc_info=True
                         )
 
-#                                                                                  Telegram: @nabilanavab
+#                                                                                  Telegram: @DeltaBotsOfficial
