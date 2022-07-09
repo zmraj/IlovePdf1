@@ -1,19 +1,6 @@
-
-<img src="https://telegra.ph/file/ec0047cc76e7080f818ff.png">
-
-<small><i>About:</i></small>
-
-```py
-  _   _                  ___  ___  _____ ™
- | | | |   _____ _____  | _ \|   \|  __| 
- | | | |__/ _ \ V / -_) |  _/| |) |  _|  
- |_| |___,\___/\_/\___| |_|  |___/|_|    
-                         [Nabil A Navab] 
-                         Email: nabilanavab@gmail.com
-                         Telegram: @nabilanavab
-```
-
-<div align="center">
+ALL IN ONE PDFs
+   Telegram: @DeltaBotsOfficial
+ 
 
 ## Enjoy the API
 
@@ -134,7 +121,7 @@ the extracted PDF-images..</em>
     ╰────Railways──〄
 
 ### deploy on heroku:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nabilanavab/ilovepdf)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zmraj/IlovePdf)
 
 ## Project setUp:
 
