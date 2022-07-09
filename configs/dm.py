@@ -47,4 +47,4 @@ class Config(object):
                            )
                        )
 
-#                                                                             Telegram: @nabilanavab
+#                                                                             Telegram: @DeltaBotsOfficial
