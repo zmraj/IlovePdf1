@@ -93,4 +93,4 @@ async def thumbName(message, fileName):
                         exc_info=True
                         )
 
-#                                                         Telegram: @nabilanavab
+#                                                         Telegram: @DeltaBotsOfficial
