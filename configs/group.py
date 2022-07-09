@@ -32,4 +32,4 @@ class groupConfig(object):
     
     ONLY_GROUP_ADMIN = os.environ.get("ONLY_GROUP_ADMIN", False)
 
-#                                                                             Telegram: @nabilanavab
+#                                                                             Telegram: @DeltaBotsOfficial
