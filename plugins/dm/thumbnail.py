@@ -303,4 +303,4 @@ async def _delThumb(bot, callbackQuery):
                         exc_info=True
                         )
 
-#                                                                                              Telegram: @nabilanavab
+#                                                                                              Telegram: @DeltaBotsOfficial
