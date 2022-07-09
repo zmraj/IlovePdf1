@@ -65,8 +65,8 @@ Some of the main features are:
 
 foolRefresh = "വിളച്ചിലെടുക്കല്ലേ കേട്ടോ 😐"
 
-LOG_TEXT = "#newUser @nabilanavab/ILovePDF\nID: {}\nView Profile: {}"
-LOG_TEXT_C = "#newChat @nabilanavab/ILovePDF\nID: {}\nGroup Title: {}\nTotal Users: {}\nUserNsme: {}"
+LOG_TEXT = "#newUser @DeltaBotsOfficial/ILovePDF\nID: {}\nView Profile: {}"
+LOG_TEXT_C = "#newChat @DeltaBotsOfficial/ILovePDF\nID: {}\nGroup Title: {}\nTotal Users: {}\nUserNsme: {}"
 
 button = InlineKeyboardMarkup(
         [[
@@ -77,10 +77,10 @@ button = InlineKeyboardMarkup(
                                      callback_data="help")
         ],[
             InlineKeyboardButton("🌟 SOURCE CODE 🌟",
-            url="https://github.com/nabilanavab/ilovepdf")
+            url="https://t.me/DeltaBotsOfficial")
         ],[
             InlineKeyboardButton("🤖 CHANNEL 🤖",
-                  url="https://telegram.dog/ilovepdf_bot"),
+                  url="https://t.me/DeltaBotsOfficial"),
             InlineKeyboardButton("📝 FEEDBACK 📝",
                                         url=f"{FEEDBACK}")
         ],[
@@ -143,14 +143,14 @@ async def start(bot, message):
                                    f"Let me Introduce myself.. \n"
                                    f"My Name is iLovePDF, and i can help you to do many "
                                    f"Manipulations with @Telegram PDF files\n\n"
-                                   f"Thanks @nabilanavab for this Awesome Bot 😅", quote=True,
+                                   f"Thanks @DeltaBotsOfficial for this Awesome Bot 😅", quote=True,
                                    reply_markup = InlineKeyboardMarkup(
                                                                      [[InlineKeyboardButton("🤠 BOT OWNER 🤠",
-                                                                          url = "Telegram.dog/nabilanavab"),
+                                                                          url = "https://t.me/DeltaBotsOfficial"),
                                                                        InlineKeyboardButton("🛡️ UPDATE CHANNEL🛡️",
-                                                                          url = "Telegram.dog/iLovePDF_bot")],
+                                                                          url = "https://t.me/DeltaBotsOfficial")],
                                                                       [InlineKeyboardButton("🌟 SOURCE CODE 🌟",
-                                                                          url = "https://github.com/nabilanavab/iLovePDF")]]
+                                                                          url = "https://t.me/DeltaBotsOfficial")]]
                                   ))
                 except Exception: pass
             if message.chat.type == "private":
@@ -187,7 +187,7 @@ async def start(bot, message):
                                                         "\n\nContact Bot Owner 🤐",
                                               reply_markup = InlineKeyboardMarkup(
                                                              [[InlineKeyboardButton("🤠 OWNER 🤠",
-                                                                 url = "https://t.me/nabilanavab")]]
+                                                                 url = "https://t.me/DeltaBotsOfficial")]]
                                               ))
                      return
             except Exception as e:
@@ -232,9 +232,9 @@ async def start(bot, message):
                                reply_markup = InlineKeyboardMarkup(
                                    [[
                                        InlineKeyboardButton("🌟 SOURCE CODE 🌟",
-                                              url="https://github.com/nabilanavab/ILovePDF"),
+                                              url="https://t.me/DeltaBotsOfficial"),
                                        InlineKeyboardButton("🔍 ABOUT BOT 🔎",
-                                                     url="https://telegram.dog/nabilanavab")
+                                                     url="https://t.me/DeltaBotsOfficial")
                                    ],[
                                        InlineKeyboardButton("📌 SET THUMB 📌",
                                                                    callback_data="getThumb")
@@ -362,4 +362,4 @@ async def _close(bot, callbackQuery):
                         exc_info=True
                         )
 
-#                                                                                  Telegram: @nabilanavab
+#                                                                                  Telegram: @DeltaBotsOfficial
