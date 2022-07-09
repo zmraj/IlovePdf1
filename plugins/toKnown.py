@@ -74,4 +74,4 @@ async def toKnown(callbackQuery, number_of_pages):
         )
     except Exception: pass
 
-#                                                                                  Telegram: @nabilanavab
+#                                                                                  Telegram: @DeltaBotsOfficial
