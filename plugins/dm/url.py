@@ -39,7 +39,7 @@ else:
 
 
 # url Example: https://t.me/channel/message
-#              https://t.me/nabilanavab/1
+#              https://t.me/DeltaBotsOfficial/1
 links = ["https://telegram.dog/", "https://t.me/", "https://telegram.me/"]
 
 async def getPDF(current, t, message, total=0, typ="DOWNLOADED"):
@@ -228,7 +228,7 @@ async def _getFile(bot, callbackQuery):
                                   [[
                                       InlineKeyboardButton(
                                                           "😎 COMPLETED 😎",
-                                                          url = "https://github.com/nabilanavab/ILovePDF")
+                                                          url = "https://t.me/DeltaBotsOfficial")
                                   ]]
         ))
         PROCESS.remove(callbackQuery.from_user.id)
@@ -241,4 +241,4 @@ async def _getFile(bot, callbackQuery):
                         exc_info=True
                         )
 
-#                                                                                                           Telegram: @nabilanavab
+#                                                                                                           Telegram: @DeltaBotsOfficial
