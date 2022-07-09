@@ -79,4 +79,4 @@ async def checkPdf(file_path, callbackQuery):
             pass
         return "notPdf"
 
-#                                                                                  Telegram: @nabilanavab
+#                                                                                  Telegram: @DeltaBotsOfficial
