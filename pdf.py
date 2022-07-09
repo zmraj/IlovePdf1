@@ -33,9 +33,9 @@ iLovePDF = '''
  | | | |   _____ _____  | _ \|   \|  __| 
  | | | |__/ _ \ V / -_) |  _/| |) |  _|  
  |_| |___,\___/\_/\___| |_|  |___/|_|    
-                         [Nabil A Navab] 
-                         Email: nabilanavab@gmail.com
-                         Telegram: @nabilanavab
+                         [Nabil  ] 
+                         Email: nxyz@gmail.com
+                         Telegram: @DeltaBotsOfficial
 '''
 
 
@@ -108,8 +108,8 @@ class Bot(ILovePDF):
                     f"BOT ID : {myID.id} | BOT NAME: {myID.first_name} |"
                     f" BOT USERNAME: {myID.username}\n\n"
                     f"BOT GETS STARTED..\n"
-                    f"Thanks @nabilanavab for this Awesome repo\n"
-                    f"Telegram Update Channel: @iLovePDF_bot\n\n"
+                    f"Thanks @DeltaBotsOfficial for this Awesome repo\n"
+                    f"Telegram Update Channel: @DeltaBotsOfficial\n\n"
                     f"{iLovePDF}"
                     )
         # Bot Restarted Message to ADMINS
