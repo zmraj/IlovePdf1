@@ -40,4 +40,4 @@ async def _spam(bot, message):
                         )
 
 
-#                                                     Telegram: @nabilanavab
+#                                                     Telegram: @DeltaBotsOfficial
