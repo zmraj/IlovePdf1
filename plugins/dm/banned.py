@@ -347,4 +347,4 @@ async def _rU18(bot, callbackQuery):
                         exc_info=True
                         )
 
-#                                                                                          Telegram: @nabilanavab
+#                                                                                          Telegram: @DeltaBotsOfficial
